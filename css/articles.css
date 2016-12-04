@@ -1,0 +1,96 @@
+  .art1 {
+      border-style: solid;
+      border-radius: 25px;
+      border-color: black;
+      background-color: orange;
+      font-family: Arial;
+      font-size: 15px;
+      color: black;
+      line-height: 12px;
+      padding: 1.5em;
+      box-shadow: 2px 4px 3px black;
+  }
+  
+  .art2 {
+      border-style: solid;
+      border-color: white;
+      border-radius: 1px 99px 1px 99px;
+      background-color: teal;
+      font-family: Verdana;
+      font-size: 8px;
+      color: white;
+      line-height: 3px;
+      padding: 2.5em;
+      box-shadow: 2px 4px 3px black;
+  }
+  
+  .art3 {
+      border-style: solid;
+      border-color: black;
+      border-radius: 15px;
+      background-color: brown;
+      font-family: Georgia;
+      font-size: 5px;
+      color: gray;
+      line-height: 4px;
+      padding: 3em;
+      box-shadow: 2px 4px 3px black;
+  }
+  
+  .art4 {
+      border-style: dotted;
+      border-color: red;
+      border-radius: 1px;
+      background-color: white;
+      font-family: Tahoma;
+      font-size: 9px;
+      color: blue;
+      line-height: 55px;
+      margin: 5px;
+      padding: 10rem;
+      box-shadow: 1px 5px 7px black;
+  }
+  
+  .art5 {
+      border-style: dashed;
+      border-color: red;
+      border-radius: 1px;
+      background-color: green;
+      text-align: left;
+      font-family: Helvetica;
+      font-size: 20px;
+      overflow: auto;
+      color: lightsteelblue;
+      position: center;
+      line-height: 7px;
+      padding: 15rem;
+      box-shadow: 2px 4px 3px black;
+  }
+  
+  header {
+      max-width: 100%;
+      text-align: center;
+      position: auto;
+      border-style: solid;
+  }
+  
+  div #divoverhere {
+      margin: 5em;
+  }
+  
+  footer {
+      font-size: 8px;
+  }
+  
+  h1 {
+      color: firebrick;
+      text-align: center;
+  }
+
+  img {
+      border-style: solid;
+      max-width: 500px;
+      max-height: 500px;
+      position: center;
+      display: inline-block;
+  }
